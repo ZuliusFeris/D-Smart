@@ -44,8 +44,8 @@ namespace FRIDv2
         public int enterCount = 0;
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "4HGFTg2AavlUY70DLKbfNjsbvbtFjcSYjKfvsmXl",
-            BasePath = "https://door-78c3e-default-rtdb.firebaseio.com/"
+            AuthSecret = "##############################################",
+            BasePath = "##############################################"
         };
 
         IFirebaseClient client;
